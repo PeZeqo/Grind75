@@ -3,6 +3,7 @@ Runtime 65% O(n)
 Memory 20% O(n)
 """
 
+
 class Solution:
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
         res = []

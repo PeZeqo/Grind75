@@ -3,6 +3,7 @@ Runtime 60% O(n)
 Memory 41% O(1)
 """
 
+
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         subSum = 0
