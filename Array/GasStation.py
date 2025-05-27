@@ -3,7 +3,7 @@ Solution:
 Runtime 71% O(N)
 Memory 13% O(1)
 
-Attempt 1:
+Attempt 2:
 Runtime 43% O(N)
 Memory 44% O(1)
 
